@@ -13,4 +13,4 @@
       <li>The proposed dataset generation model will enable users to create datasets as required by the respective ML model in a faster and efficient manner. The model is able to obtain relevant images with high similarity scores for the creation of an effective image dataset. This helps provide a faster mode of delivery by using considerably lesser parameters as compared to traditional CNN’s. The use of this model will further reduce the total computation power required by performing a lesser number of multiplication operations and utilizing a smaller set of parameters. This model can in turn help developers to circumvent the problem of data scarcity and helps automate the process of securing a suitable dataset as required by the user.</li>
   <img width="995" alt="ProjectUpload" src="https://github.com/nevilleroy/Dataset-Generation-using-Image-Classification/assets/52038531/60f2dcba-72c4-46ff-83f0-d1b428042711">
 
-    </ul>
+
