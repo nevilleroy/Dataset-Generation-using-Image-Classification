@@ -14,4 +14,3 @@
   <img width="995" alt="ProjectUpload" src="https://github.com/nevilleroy/Dataset-Generation-using-Image-Classification/assets/52038531/60f2dcba-72c4-46ff-83f0-d1b428042711">
 
     </ul>
-</ul>
