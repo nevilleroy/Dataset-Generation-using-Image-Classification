@@ -1,7 +1,6 @@
 # Dataset Generation Using Image Classification
-<li> <h2>A overview of the project </h2></li>
 <ul>
-  <li><h2>About</h2></li>
+  <li><h2>Overview</h2></li>
     <ul>
       <li>Machine learning is currently at the pinnacle of its popularity. However, many decision-makers are unaware of what is required to build, train, and launch a machine learning algorithm successfully. The data collected must be uniform and coherent such that it can be understood by a machine. A common challenge faced is the maintenance of a gigantic codebase. In the proposed model the dataset is created using web scraping and image classification models that allow the user to define the required data elements for each dataset, comparing each element with a sample image provided by the user. The model compares the similarity scores of the high-level features of the sample image with those scraped from the web. The Web scraping model makes use of tools like selenium that makes use of bots to automate the process of the extraction of web data from the specified websites and store it for later use, thereby delivering faster results by eliminating the requirement of manual data entry and other human errors. The image classification model chosen is a pre-trained convolutional neural network known as mobilenet which extracts the various features of the images. We aim to create a seamless interface that allows users to input the dataset to be generated, enter the number of data elements to be obtained by including sample images and obtain the desired elements, all integrated using a python UI application.</li>
       <li> <h2>Objectives</h2></li>
